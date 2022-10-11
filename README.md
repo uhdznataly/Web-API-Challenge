@@ -1,7 +1,5 @@
 # Web-API-Challenge
-
-# code-refactor
-This is the README.md file for the Module 4 Challenge given by the University of Texas Coding Bootcamp.
+* This is the README.md file for the Module 4 Challenge given by the University of Texas Coding Bootcamp.
 
 # description
 * As a developer, I want to take a timed quiz on JavaScript fundamentals that stores high scores
@@ -20,5 +18,5 @@ This is the README.md file for the Module 4 Challenge given by the University of
     * WHEN the game is over
         * THEN I can save my initials and score
 
-        
+
 # assests
